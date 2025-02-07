@@ -7,7 +7,7 @@
 </p>
 
 
-- 🌱 Skilled and results-oriented software architect and engineer with over 9 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
+- 🌱 Skilled and results-oriented software architect and engineer with over 8 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
 - 🌱 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
 
