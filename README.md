@@ -1,4 +1,4 @@
-<h3 align="center">A Senior Fullstack Blockchain Engineer</h3>
+<h3 align="center">A Senior Web Developer</h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
