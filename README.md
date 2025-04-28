@@ -62,5 +62,13 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/darkhorse374/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vortexory" alt="vortexory" /></a> </p>  
+  
+## My Github Stats
+<div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
+<img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vortexory&show_icons=true&locale=en&layout=compact"  alt="vortexory" />
+<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=vortexory&show_icons=true&locale=en"  alt="vortexory" />
+</div>
 
 </p>
