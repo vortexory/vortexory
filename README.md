@@ -1,4 +1,3 @@
-<h3 align="center">A Senior Web Developer</h3>
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22Coding+is+an+art.%22" />
@@ -7,6 +6,7 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" />
 
+<h3 align="center">A Senior FullStack Blockchain Developer</h3>
 
 - 🌱 Skilled and results-oriented software architect and engineer with over 8 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
