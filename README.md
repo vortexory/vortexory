@@ -1,5 +1,5 @@
 <h3 align="center">A Senior Web Developer</h3>
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22Coding+is+an+art.%22" />
 </p>
