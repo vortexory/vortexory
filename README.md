@@ -2,7 +2,7 @@
 <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22Coding+is+an+art.%22" />
 </p>
-<div style="display: flex-inline;">
+<div style="display: flex; flex-diraction:row; ">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
