@@ -2,21 +2,6 @@
 <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22Coding+is+an+art.%22" />
 </p>
-<div style="display: flex; flex-diraction:row; ">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-</div>
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" />
 
